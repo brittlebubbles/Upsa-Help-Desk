@@ -1,0 +1,37 @@
+[
+  {
+    "id": "352551700",
+    "title": "Reset your password for upsa virtual account",
+    "answers": "<p><ul><li>Visit <a href='join.upsavirtual.site'>UPSA Virtual Site</a> and click on the ‘Forgotten username or password’ link.</li><li>Enter only your index number in the username textbox.If you entered your index number correctly, an email with a link to reset your password will be sent to your UPSAmail by the notification.</li><li>Log in to your UPSAmail. Access the mail with the subject “UPSA E-Learning Platform: Password reset request”. </li><li>Follow the instructions in the mail to reset your password.</li></ul></p>",
+    "category": "Virtual-class",
+    "tags": "password reset, upsa virtual account, reset, password, lms"
+  },
+  {
+    "id": "293325116",
+    "title": "Submit your assignment on the lms",
+    "answers": "<p>First, click on the course whose assignment you want to submit and locate the week of the assignment <br> Then click on the assignment after locating the submission status of the assignment. <br> Below the submission status, locate add submission and click on it. <br>A text box is displayed with icons on top. Click on the copy icon. Other icons are displayed under the file manager then click on the first icon. <br> Locate the upload a file link and click on choose file under attachment to select your typed solution to the assignment. <br> Name the file using the save as box and click on upload this file located below.<br>The site takes you back to submission status. Make sure the submission status is submitted for grading. <br>You are done with your submission but you can check your student email for the confirmation. <br> Most lecturers communicate with class reps. To convey information , therefore for any other information or assistance contact your course reps or lead lectures.</p>",
+    "category": "Virtual-class",
+    "tags": "virtual platform, virtual site, upsa virtual, assignment submission, lms, learning management system"
+  },
+  {
+    "id": "783769713",
+    "title": "Connect to virtual classroom",
+    "answers": "<p>The web address (URL) to UPSA-Virtual is <a href='https://join.upsavirtual.site>join.upsavirtual.site</a>. However, accessing UPSA-Virtual for the first time requires that you activate your UPSA-Virtual account by accessing a link from your UPSAmail.</p>",
+    "category": "Virtual-class",
+    "tags": "learning management system, virtual classroom, upsa virtual, online class, lms"
+  },
+  {
+    "id": "73448321",
+    "title": "Activate your upsa mail",
+    "answers": "<h4>How to Activate your UPSA Mail</h4><p>If you are using a personal smartphone or tablet: Go to the settings of the device (whether Android or iOS) and select the option to add Accounts and choose Gmail. <br>If you are using a laptop or PC: Open a browser and log on to www.gmail.com. Click on ‘Sign in’ button. Use your IDnumber@upsamail.edu.gh as your email address and click on the ‘next’ button.<br>Example: 10280238@upsamail.edu.gh. Enter the default password UPSA2013 and click on the ‘Next’ button. <br>Click on the ‘Accept’ button to accept the Google Terms of Service and the Google Privacy Policy. <br>If you activated your account using Smart Phone or Tablet (either on Android or iOS) your UPSAmail account should be listed as one of the Gmail accounts on your device. It is important to change your password after UPSAmail Activation to ensure the total security of your UPSAmail and other Google Apps (such as Google Drive, Doc, Sheet, Slides, Calendar, Form, Meet, etc.,) that you are entitled to use freely as part of the Apps associated with your UPSAmail. <br>In case you forget or lose your password, you can use your phone number to receive an SMS code on your phone to reset your password. This is only possible if you have done settings for Mobile Phone Password Recovery.</p>",
+    "category": "School-related",
+    "tags": "student email, school email, email, activate mail, mail"
+  },
+  {
+    "id": "889356440",
+    "title": "Register re-sit papers",
+    "answers": "<p>Once done with the course registration, you could now pay and disburse for your re-sit registration provided you have any first semester paper(s) you wish to resit. <br> Each Credit Hour of a re-sit paper (course) registered attracts a fee of GH¢20.00) e.g. BCPC212: Business Ethics is a 3 credit hour paper and therefore attracts a re-sit registration fee of Sixty Ghana cedis (GH¢60.00). <br>Return to your USIS Student’s portal to do your resit registration and generate the proof of registration.</p>",
+    "category": "School-related",
+    "tags": "resit, re-sit, re-sit exams, re-sit papers, student re-sit"
+  }
+]
