@@ -21,21 +21,21 @@ export default function Home() {
                 <a href="/" class="py-2 px-6 flex hover:text-blue-500">
                   Home
                 </a>
-                <a href="/faq" class="py-2 px-6 flex hover:text-blue-500">
-                  FAQ
-                </a>
                 <a href="/forum" class="py-2 px-6 flex hover:text-blue-500">
                   Answers
+                </a>
+                <a href="/faq" class="py-2 px-6 flex hover:text-blue-500">
+                  FAQ
                 </a>
                 <a href="/contact" class="py-2 px-6 flex text-blue-500">
                   Contact us
                 </a>
               </nav>
-              <button class="lg:hidden flex flex-col">
+              {/* <button class="lg:hidden flex flex-col">
                 <span class="w-6 h-px bg-gray-900 mb-1"></span>
                 <span class="w-6 h-px bg-gray-900 mb-1"></span>
                 <span class="w-6 h-px bg-gray-900 mb-1"></span>
-              </button>
+              </button> */}
             </div>
           </div>
         </header>
